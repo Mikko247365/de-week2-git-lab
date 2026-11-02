@@ -3,4 +3,4 @@ git exercises
 hello :)
 Nothing to see here :D
 
-Added new stuff to this readme file
+Added new stuff to the readme file <3
